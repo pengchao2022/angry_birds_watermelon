@@ -5,3 +5,17 @@
 ## Features
 
 ![game](angry_bird.png)
+
+## Usage
+- Install pygame module
+```
+pip install pygame --break-system-packages
+
+```
+
+- Run the game
+```
+python3 main.py
+```
+
+

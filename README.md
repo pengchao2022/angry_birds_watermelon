@@ -18,4 +18,11 @@ pip install pygame --break-system-packages
 python3 main.py
 ```
 
+## Control Reference
+
+- **R** -- Reset the position of the bird
+- **T** -- Predict the track of the bird
+- **M** -- Turn off/on the music
+- **N** -- Go to the next level
+
 
